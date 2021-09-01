@@ -38,6 +38,4 @@ Hi there, i am a final year undergraduate student from Fudan University majoring
 
 I'm a member of [Data Intelligence and Social Computing Lab](http://fnlpsds.com/) (Fudan DISC) , and i am conducting research project concerning new datasets construction and new task formulation under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)  at DISC. Besides, i conducted a research project of data augmentation with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/) during the last summer.
 
-I will apply for master degree at the end of 2021. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I will apply for master degree at the end of 2021.
