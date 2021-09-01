@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Summer research 
+    company: Georgia Tech
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+<!--     company_logo: org-gc -->
+    location: Remote
+    date_start: '2022-05-01'
+    date_end: '2022-08-31'
     description: |2-
-        Responsibilities include:
+        Works include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Long text generation exploration
+        * Data augmentation method 
+        * Experiment & paper writing
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Institute internship 
+    company: Shanghai Qizhi Institute
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+<!--     company_logo: org-x -->
+    location: Shanghai
+    date_start: '2021-02-01'
+    date_end: '2021-4-31'
+    description: Expand the task formulation and datasets (Andrew Owens et al,2016) by adding textual description
+and construct a higher quality dataset as well as propose new tasks on newly collected datasets.
+    
+  - title: Undergraduate Researcher
+    company: Fudan University, DISC lab 
+    company_url: ''
+<!--     company_logo: org-x -->
+    location: Shanghai
+    date_start: '2020-09-01'
+    date_end: ''
+    description: In an effort to build Chinese multimodal event datasets, collecting multimodal data from social 
+    platform and propose new task formulations as well as baselines for the task.
 
 design:
   columns: '2'
