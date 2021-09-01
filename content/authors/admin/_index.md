@@ -31,7 +31,7 @@ education:
       institution: Fudan University
       year: 2022
 email: ""
-superuser: true
+superuser: false
 highlight_name: false
 ---
 Hi there, i am a final year undergraduate student from Fudan University majoring in Electronic Engineering ( Biomedical Engineering ) . I'm an NLP enthusiast, with research interests including Natural Language Processing and Multi-modal Machine Learning. My goal is to endow machine with emotional and logical ability to understand this world and interact with human beings. 
