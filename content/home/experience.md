@@ -42,7 +42,7 @@ experience:
     company_logo: 
     location: Shanghai
     date_start: '2021-02-01'
-    date_end: '2021-04-31'
+    date_end: '2021-04-28'
     description: Expand the task formulation and datasets (Andrew Owens et al,2016).
     
   - title: Undergraduate Researcher
