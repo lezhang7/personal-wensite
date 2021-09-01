@@ -66,7 +66,7 @@ highlight_name: false
 ---
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Hello, i'm a senior undergraduate student at Fudan University. My research interests include Natural Language Processing and Multimodal Machine Learning. I'm applying for master degree now, and i prepare to pursue a PHD in the future.
+Hello, i'm a senior undergraduate student at Fudan University. My research interests include Natural Language Processing and Multimodal Machine Learning. My goal is to endow machine with emotional and logical ability to understand this world and interact with human beings. I'm applying for master degree right now, and i prepare to pursue a Phd degree in the future.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
