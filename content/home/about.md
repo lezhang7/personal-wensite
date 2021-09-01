@@ -9,8 +9,8 @@ author: admin
 design:
   background:
     image_darken: 0.3
-    color: "#3c2323"
-    gradient_start: "#e29e9e"
+    color: "#a63939"
+    gradient_start: "#dfa0a0"
     gradient_end: "#f17979"
     text_color_light: true
 ---
