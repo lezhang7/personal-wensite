@@ -25,7 +25,7 @@ experience:
   - title: Summer research 
     company: Georgia Tech
     company_url: ''
-<!--     company_logo: org-gc -->
+    company_logo: 
     location: Remote
     date_start: '2022-05-01'
     date_end: '2022-08-31'
@@ -39,7 +39,7 @@ experience:
   - title: Institute internship 
     company: Shanghai Qizhi Institute
     company_url: ''
-<!--     company_logo: org-x -->
+    company_logo: 
     location: Shanghai
     date_start: '2021-02-01'
     date_end: '2021-4-31'
@@ -49,7 +49,7 @@ and construct a higher quality dataset as well as propose new tasks on newly col
   - title: Undergraduate Researcher
     company: Fudan University, DISC lab 
     company_url: ''
-<!--     company_logo: org-x -->
+    company_logo: 
     location: Shanghai
     date_start: '2020-09-01'
     date_end: ''
