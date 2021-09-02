@@ -30,7 +30,7 @@ experience:
     date_start: '2022-05-01'
     date_end: '2022-08-31'
     description: |2-
-        Responsibilities include:
+        Works include:
         
         * Long text generation
         * Tree mixup data augmentation
