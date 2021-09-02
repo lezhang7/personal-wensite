@@ -29,12 +29,12 @@ experience:
     location: Remote
     date_start: '2022-05-01'
     date_end: '2022-08-31'
-    description: >-
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Long text generation
+        * Tree mixup data augmentation
+        * Experiment & paper writing
         
   - title: Institute internship 
     company: Shanghai Qizhi Institute
