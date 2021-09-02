@@ -1,7 +1,7 @@
 ---
 title: Le Zhang | 张乐
 role: Senior Student of Electronic Engineering
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: Senior student interested in NLP, applying for master study in north America
 interests:
   - Artificial Intelligence
