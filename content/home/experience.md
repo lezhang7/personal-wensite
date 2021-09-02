@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Remote
-    date_start: '2022-05-01'
-    date_end: '2022-08-31'
+    date_start: '2021-05-01'
+    date_end: '2021-09-01'
     description: |2-
         Works include:
         
