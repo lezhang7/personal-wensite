@@ -8,7 +8,7 @@ active: true
 author: admin
 design:
   background:
-    image_darken: 0.5
+    image_darken: 0.4
     color: "#a63939"
     gradient_start: "#dfa0a0"
     gradient_end: "#f17979"
