@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: <a href="mailto:zl18300720002@gmail.com">Send me Email</a>
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com
