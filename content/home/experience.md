@@ -30,11 +30,11 @@ experience:
     date_start: '2022-05-01'
     date_end: '2022-08-31'
     description: >-
-        Works include:
+        Responsibilities include:
         
-        * Long text generation exploration
-        * Data augmentation method 
-        * Experiment & paper writing
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Institute internship 
     company: Shanghai Qizhi Institute
