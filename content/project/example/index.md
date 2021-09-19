@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: Polar-DB based Educational Administration System
 authors:
   - Le Zhang
 url_video: ""
@@ -11,12 +11,8 @@ url_slides: ""
 title: Database system project
 subtitle: Polar-DB based Educational Administration System
 tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - Other
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
@@ -32,4 +28,6 @@ Main functions include  :
 * Data analysis
 * Abundant of data integrity constraints
 
-System overview
+System overview :
+
+The system is programmed in python and GUI is designed by PyQt5. This system is linked to PolarDB and provide SQL services with simple click operations in GUI. Connections settings are in main.py .
