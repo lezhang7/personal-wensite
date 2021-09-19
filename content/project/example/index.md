@@ -1,15 +1,17 @@
 ---
+draft: true
 slides: example
 url_pdf: ""
+title: Database system project
+subtitle: Polar-DB based Educational Administration System
+date: 2021-09-19T15:16:37.591Z
 summary: Polar-DB based Educational Administration System
 authors:
   - Le Zhang
 url_video: ""
-date: 2021-09-19T15:16:37.591Z
+featured: true
 external_link: https://github.com/Magiccircuit/-Polar-DB
 url_slides: ""
-title: Database system project
-subtitle: Polar-DB based Educational Administration System
 tags:
   - Other
 links: []
@@ -30,4 +32,4 @@ Main functions include  :
 
 System overview :
 
-The system is programmed in python and GUI is designed by PyQt5. This system is linked to PolarDB and provide SQL services with simple click operations in GUI. Connections settings are in main.py .
+The system is programmed in python and GUI is designed with PyQt5. This system is linked to PolarDB and provide SQL services with simple click operations in GUI. Connections settings are in main.py .
