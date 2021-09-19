@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slides: example
 url_pdf: ""
 title: Database system project
@@ -9,7 +9,7 @@ summary: Polar-DB based Educational Administration System
 authors:
   - Le Zhang
 url_video: ""
-featured: true
+featured: false
 external_link: https://github.com/Magiccircuit/-Polar-DB
 url_slides: ""
 tags: []
@@ -19,7 +19,7 @@ links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Center
-  filename: featured.jpg
+  filename: ""
 url_code: ""
 ---
 This is a project about designing a educational administration system is capable of managing teaching fairs in real university, up to four entity including teachers, students, courses, scores are designed. Also, it has got different interface for different account (e.g teacher or student), and different functions are accessible to different authorities. 
