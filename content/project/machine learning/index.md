@@ -20,10 +20,9 @@ links: []
 image:
   caption: one-stage object detection
   focal_point: Center
-  filename: "https://sm.ms/image/9ltMYkcZ1mpA5SE"
+  filename: "yolo.jpg"
 url_code: "https://github.com/Magiccircuit/face-mask-detection"
 ---
-[TOC]
 
 ## Introduction
 
@@ -45,7 +44,7 @@ We use a datasets from Kaggle named  [Face Mask Detection](https://www.kaggle.co
 Besides these 853 images, I also collected extra images using [Labelme](https://github.com/wkentaro/labelme) .	
 
 
-The format of label in [Face Mask Detection](https://www.kaggle.com/andrewmvd/face-mask-detection) is `.xml`, the label is the four absolute coordinates  rectangular box in the image. However, since yolo model is a one-stage model, and its label must follow 'yolo' format, where the label is normalization of the x and y coordinates of the box's center and the normalization height and width of the box. All values must be in the [0-1] interval. To transform the format, I write a script as following:
+The format of label in [Face Mask Detection](https://www.kaggle.com/andrewmvd/face-mask-detection) is `.xml`, the label is the four absolute coordinates  rectangular box in the image. However, since yolo model is a one-stage model, and its label must follow 'yolo' format, where the label is normalization of the x and y coordinates of the box  and the normalization height and width of the box. All values must be in the [0-1] interval. To transform the format, I write a script as following:
 
 ```python
 def convert(size, box):
@@ -103,18 +102,11 @@ python ~/github/yolov5/train.py --img 416 --batch 16 --epochs 150 --data data.ya
 
 Here are some visualized metrics :
 
-![image-20211019211159587](https://i.loli.net/2021/10/19/ql16QvRzT3Zhsia.png)
+![image-20211019231225705](https://i.loli.net/2021/10/19/3Kv2OjNadUST9Bz.png)
 
-<center>
-<figure>
+
+
 <img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" width= "40%"  /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" width= "40%"  />
-
-
-<figure>
-        <center>
-
-
-
 
 The output of the model is the probability and the coordinates of the box, to visualize the result, use following script:
 
@@ -179,8 +171,6 @@ and finally we can get results as following:
 
 <img src="https://i.loli.net/2021/10/19/HIGdWV7SykFtRaX.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" width= "33%"  /><img src="https://i.loli.net/2021/10/19/3O7b6VhJKR4C5rs.jpg" alt="w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b" width= "33%" /><img src="https://i.loli.net/2021/10/19/ctUPsBfw4ENmTG2.jpg" alt="126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915" width= "33%" />
 
-<figure>
-<center
 
 ## Inference
 
