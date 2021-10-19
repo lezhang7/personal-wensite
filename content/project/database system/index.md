@@ -1,6 +1,6 @@
 ---
 draft: false
-slides: example
+slides: 
 url_pdf: ""
 title: Database system project
 subtitle: Polar-DB based Educational Administration System
