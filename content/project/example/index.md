@@ -12,7 +12,8 @@ url_video: ""
 featured: false
 external_link: https://github.com/Magiccircuit/-Polar-DB
 url_slides: ""
-tags: [Other]
+tags: 
+  - Other
 categories:
   - Other
 links: []
