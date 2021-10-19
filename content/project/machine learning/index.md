@@ -37,7 +37,10 @@ The object detection is based on YOLOV5.  “YOLO”, refering to “*You Only L
 
 We use a datasets from Kaggle named  [Face Mask Detection](https://www.kaggle.com/andrewmvd/face-mask-detection) which contains 853 images and corresponding annotation files indicating whether a person is *wearing a mask correctly*, *incorrectly* or *not wearing it*. Here are some samples:
 
-<img src="https://i.loli.net/2021/10/19/LUtMi3bvaFQVSjh.jpg" alt="phplpE73q_jpg.rf.bd81cab9f8ff2674ce2e58278f7d37fa" width= "33%" align=left /><img src="https://i.loli.net/2021/10/19/h8KtiZLSAcnMNwg.jpg" alt="1224331650_g_400-w_g_jpg.rf.b816f49e2d84044fc997a8cbd55c347d"  width= "33%"  align=center /><img src="https://i.loli.net/2021/10/19/pzC7YTbUcgDmVNS.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" width= "33%"  align=right />
+<figure>
+
+<img src="https://i.loli.net/2021/10/19/LUtMi3bvaFQVSjh.jpg" alt="phplpE73q_jpg.rf.bd81cab9f8ff2674ce2e58278f7d37fa" width= "30%" align=left /><img src="https://i.loli.net/2021/10/19/h8KtiZLSAcnMNwg.jpg" alt="1224331650_g_400-w_g_jpg.rf.b816f49e2d84044fc997a8cbd55c347d"  width= "30%"  align=center /><img src="https://i.loli.net/2021/10/19/pzC7YTbUcgDmVNS.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" width= "30%"  align=right />
+<figure>
 
 
 
@@ -104,9 +107,8 @@ Here are some visualized metrics :
 
 ![image-20211019211159587](https://i.loli.net/2021/10/19/ql16QvRzT3Zhsia.png)
 
+<img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" width= "50%"  /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" width= "50%"  />
 
-
-<img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" width= "50%"  /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" width= "50%"  />
 
 The output of the model is the probability and the coordinates of the box, to visualize the result, use following script:
 
@@ -168,9 +170,8 @@ for img in ims:
 ```
 
 and finally we can get results as following:
-<center class="half">
+
 <img src="https://i.loli.net/2021/10/19/HIGdWV7SykFtRaX.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" width= "33%"  /><img src="https://i.loli.net/2021/10/19/3O7b6VhJKR4C5rs.jpg" alt="w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b" width= "33%" /><img src="https://i.loli.net/2021/10/19/ctUPsBfw4ENmTG2.jpg" alt="126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915" width= "33%" />
-<center>
 
 
 
