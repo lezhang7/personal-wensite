@@ -39,7 +39,7 @@ We use a datasets from Kaggle named  [Face Mask Detection](https://www.kaggle.co
 
 
 
-<img src="D:\mlfinal_pj\测试结果\images\phplpE73q_jpg.rf.bd81cab9f8ff2674ce2e58278f7d37fa.jpg" alt="phplpE73q_jpg.rf.bd81cab9f8ff2674ce2e58278f7d37fa" style="zoom:50%;" /><img src="D:\mlfinal_pj\测试结果\images\126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915.jpg" alt="1224331650_g_400-w_g_jpg.rf.b816f49e2d84044fc997a8cbd55c347d" style="zoom:50%;" /><img src="D:\mlfinal_pj\测试结果\images\shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/10/19/LUtMi3bvaFQVSjh.jpg" alt="phplpE73q_jpg.rf.bd81cab9f8ff2674ce2e58278f7d37fa" style="zoom:50%;" /><img src="https://i.loli.net/2021/10/19/h8KtiZLSAcnMNwg.jpg" alt="1224331650_g_400-w_g_jpg.rf.b816f49e2d84044fc997a8cbd55c347d" style="zoom:50%;" /><img src="https://i.loli.net/2021/10/19/pzC7YTbUcgDmVNS.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" style="zoom:50%;" />
 
 Besides these 853 images, I also collected extra images using [Labelme](https://github.com/wkentaro/labelme) .	
 
@@ -101,11 +101,11 @@ python ~/github/yolov5/train.py --img 416 --batch 16 --epochs 150 --data data.ya
 
 Here are some visualized metrics :
 
-![image-20211019211159587](C:\Users\zhangle\AppData\Roaming\Typora\typora-user-images\image-20211019211159587.png)
+![image-20211019211159587](https://i.loli.net/2021/10/19/ql16QvRzT3Zhsia.png)
 
 
 
-<img src="C:\Users\zhangle\AppData\Roaming\Typora\typora-user-images\image-20211019211324124.png" alt="image-20211019211324124" style="zoom:33%;" /><img src="C:\Users\zhangle\AppData\Roaming\Typora\typora-user-images\image-20211019211240876.png" alt="image-20211019211240876" style="zoom: 33%;" />
+<img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" style="zoom:33%;" /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" style="zoom: 33%;" />
 
 The output of the model is the probability and the coordinates of the box, to visualize the result, use following script:
 
@@ -168,7 +168,7 @@ for img in ims:
 
 and finally we can get results as following:
 
-<img src="D:\mlfinal_pj\测试结果\detect_images\shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" style="zoom:50%;" /><img src="D:\mlfinal_pj\测试结果\detect_images\w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b.jpg" alt="w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b" style="zoom:50%;" /><img src="D:\mlfinal_pj\测试结果\detect_images\126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915.jpg" alt="126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/10/19/HIGdWV7SykFtRaX.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" style="zoom:50%;" /><img src="https://i.loli.net/2021/10/19/3O7b6VhJKR4C5rs.jpg" alt="w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b" style="zoom:50%;" /><img src="https://i.loli.net/2021/10/19/ctUPsBfw4ENmTG2.jpg" alt="126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915" style="zoom:50%;" />
 
 
 
@@ -190,7 +190,7 @@ For better interactions, I design an GUI for the project, where user can upload 
 
 The main tool is `Qtdesiner`, and the UI contains 3 `push_button` and 2 `image box` to show the original picture and result picture. 
 
-![image-20211019212159702](C:\Users\zhangle\AppData\Roaming\Typora\typora-user-images\image-20211019212159702.png)
+![image-20211019212159702](https://i.loli.net/2021/10/19/MQCe5w3lBucb1Ar.png)
 
 Then we translate this .ui file to .py file, this process can be down with a python script. Finally we need to utilize the `signal` and `slot` function to connect the GUI with our program, the core class is as follows:
 
@@ -224,7 +224,7 @@ class MyMainWindow(QMainWindow,Ui_MainWindow):
 
 This is the final program(left is image detection and right are video detection):
 
-![image-20211019213731744](C:\Users\zhangle\AppData\Roaming\Typora\typora-user-images\image-20211019213731744.png)
+![image-20211019213731744](https://i.loli.net/2021/10/19/1BFKvtwqRIOb9pm.png)
 
 
 
