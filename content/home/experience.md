@@ -32,10 +32,9 @@ experience:
     description: |2-
         Works include:
         
-        * Long text generation
-        * Tree mixup data augmentation
-        * Experiment & paper writing
-        
+        * Propos TreeMix, a novel compositional data augmentation method for sequence classification
+        * Experiment and reaches SOTA performance &  paper writing   
+    
   - title: Institute internship 
     company: Shanghai Qizhi Institute
     company_url: ''
@@ -43,7 +42,12 @@ experience:
     location: Shanghai
     date_start: '2021-02-01'
     date_end: '2021-04-28'
-    description: Expand the task formulation and datasets (Andrew Owens et al,2016).
+    description: |2-
+        Contributions:
+       
+        * Expanded the task formulation and datasets introduced in Visual Indicates Sound
+        * Designed a framework based on patch-wise contrastive learning
+        * esigned a crowd source HTML page for Amazon Mechanical Turk to collect data
     
   - title: Undergraduate Researcher
     company: Fudan University, DISC lab 
@@ -52,8 +56,12 @@ experience:
     location: Shanghai
     date_start: '2020-09-01'
     date_end: ''
-    description: Build all new Chinese multimodal event datasets, collecting data and bring new task as well as baseline
-
+    description: |2-
+        Contributions:
+        
+        * Built a multi-modal event data
+        * Collected multi-modal document (image or video & text) from official and commercial press 
+        * Designed a crowd source labelling pipeline and HTML page
 design:
   columns: '2'
 ---
