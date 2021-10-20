@@ -62,17 +62,17 @@ I designed a GUI for better interaction and operation, main components are`login
 
    If the user and password are blank, you will log in student account, and you will be restricted to only several functions; if you login with predefined account, you will have full authority to create or modify all information.
 
-   <img src="https://i.loli.net/2021/10/19/ApdgEPbxZeXSYf5.png" alt="image-20211019234026824" style="zoom: 67%;" />
+   <img src="https://i.loli.net/2021/10/19/ApdgEPbxZeXSYf5.png" alt="image-20211019234026824" style="zoom: 50%;" />
 
 2. **Multi-pages**
 
    - Teacher page
 
-     ![image-20211019234711997](https://i.loli.net/2021/10/19/zLFQdTYt2kn5RqJ.png)
+     <img src="https://i.loli.net/2021/10/19/zLFQdTYt2kn5RqJ.png" alt="image-20211019234711997" style="zoom:50%;" />
 
    - Student page (restricted authority)
 
-     ![image-20211019234510813](https://i.loli.net/2021/10/19/wjnOsd4roRKBa9F.png)
+     <img src="https://i.loli.net/2021/10/19/wjnOsd4roRKBa9F.png" alt="image-20211019234510813" style="zoom:50%;" />
 
 3. **Functions**
 
@@ -80,15 +80,15 @@ I designed a GUI for better interaction and operation, main components are`login
 
      By select the list, you can inquiry students info, course info, teacher info and scores.
 
-     <img src="https://i.loli.net/2021/10/19/I1BftrCxZgovN7u.png" alt="image-20211019235108056" style="zoom: 67%;" />
+     <img src="https://i.loli.net/2021/10/19/I1BftrCxZgovN7u.png" alt="image-20211019235108056" style="zoom: 50%;" />
 
      If you login in with teacher account, you can inquiry all info of students
 
-     <img src="https://i.loli.net/2021/10/19/ucAXJhglo6HQYSa.png" alt="image-20211019235149419" style="zoom: 67%;" />
+     <img src="https://i.loli.net/2021/10/19/ucAXJhglo6HQYSa.png" alt="image-20211019235149419" style="zoom: 50%;" />
 
      By inputing the teacher's ID, you can inquiry their courses
 
-     <img src="https://i.loli.net/2021/10/19/QrwnFYxmeUgGjtl.png" alt="image-20211019235207630" style="zoom:67%;" />
+     <img src="https://i.loli.net/2021/10/19/QrwnFYxmeUgGjtl.png" alt="image-20211019235207630" style="zoom: 50%;" />
 
      In course selection interface, all courses will be displayed 
 
@@ -98,7 +98,7 @@ I designed a GUI for better interaction and operation, main components are`login
 
      By inputing the correct ID, you can delete student info.
 
-     <img src="https://i.loli.net/2021/10/20/SXP7q8zEs4wNLom.png" alt="image-20211020093331890" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/SXP7q8zEs4wNLom.png" alt="image-20211020093331890" style="zoom: 50%;" />
 
      If you want to quit an course, you just input the course ID, then it will delete Sid tuple and Cid tuple in the SC table
 
@@ -106,22 +106,22 @@ I designed a GUI for better interaction and operation, main components are`login
 
      If you want to add new student, you enter the ID, and select sex, if the ID already exists in the DB, it will fail.
 
-     <img src="https://i.loli.net/2021/10/20/ajmB9cpV12oxSNC.png" alt="image-20211020093537567" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/ajmB9cpV12oxSNC.png" alt="image-20211020093537567" style="zoom: 50%;" />
 
-     <img src="https://i.loli.net/2021/10/20/o8i4rFbvNLWRlPp.png" alt="image-20211020093621226" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/o8i4rFbvNLWRlPp.png" alt="image-20211020093621226" style="zoom: 50%;" />
 
    - **Modify**
 
      We can edit teachers' title by entering ID and choose  new title for teachers.
 
-     <img src="C:/Users/zhangle/AppData/Roaming/Typora/typora-user-images/image-20211020093743743.png" alt="image-20211020093743743" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/2mSj19gqFdPXaNY.png" alt="image-20211020093743743" style="zoom: 50%;" />
 
    - **Statics**
 
      Entering the  ID of the teacher, you can view the average scores static of the courses taught by this employee
 
-     <img src="C:/Users/zhangle/AppData/Roaming/Typora/typora-user-images/image-20211020094023844.png" alt="image-20211020094023844" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/w2NeqFgY9ZiT7Lh.png" alt="image-20211020094023844" style="zoom: 50%;" />
 
      Besides, in the course page, you can also check the statics of all courses
 
-     <img src="C:/Users/zhangle/AppData/Roaming/Typora/typora-user-images/image-20211020094113534.png" alt="image-20211020094113534" style="zoom:33%;" />
+     <img src="https://i.loli.net/2021/10/20/xzDw2qIQyGX817R.png" alt="image-20211020094113534" style="zoom: 50%;" />

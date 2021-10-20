@@ -102,7 +102,7 @@ python ~/github/yolov5/train.py --img 416 --batch 16 --epochs 150 --data data.ya
 
 Here are some visualized metrics :
 
-![image-20211019232727389](https://i.loli.net/2021/10/19/meCBjq2DlZI5KHT.png)
+![results](https://i.loli.net/2021/10/20/fXJOFqIjyQEZL2b.png)
 
 <img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" width= "40%"  /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" width= "40%"  />
 
@@ -167,7 +167,7 @@ for img in ims:
 
 and finally we can get results as following:
 
-<img src="https://i.loli.net/2021/10/19/HIGdWV7SykFtRaX.jpg" alt="shutterstock_1627199179_jpg.rf.8432d033a37b3d142ec4ffcede508c7d" width= "33%"  /><img src="https://i.loli.net/2021/10/19/3O7b6VhJKR4C5rs.jpg" alt="w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63_jpg.rf.34ed1e8f70eebdabaf43ab9d40dc1c9b" width= "33%" /><img src="https://i.loli.net/2021/10/19/ctUPsBfw4ENmTG2.jpg" alt="126202-untitled-design-13_jpg.rf.56b50d413464989bb2232448a8fbb915" width= "33%" />
+![test_batch1_pred](https://i.loli.net/2021/10/20/C2Ts4AU63aWOgND.jpg)
 
 
 ## Inference
