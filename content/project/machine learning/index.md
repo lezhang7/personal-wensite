@@ -102,9 +102,7 @@ python ~/github/yolov5/train.py --img 416 --batch 16 --epochs 150 --data data.ya
 
 Here are some visualized metrics :
 
-![image-20211019231225705](https://i.loli.net/2021/10/19/3Kv2OjNadUST9Bz.png)
-
-
+![image-20211019232727389](https://i.loli.net/2021/10/19/meCBjq2DlZI5KHT.png)
 
 <img src="https://i.loli.net/2021/10/19/qot1BKZ4k6RCjm9.png" alt="image-20211019211324124" width= "40%"  /><img src="https://i.loli.net/2021/10/19/hDmMgYpx41Okwf3.png" alt="image-20211019211240876" width= "40%"  />
 
@@ -192,7 +190,7 @@ The main tool is `Qtdesiner`, and the UI contains 3 `push_button` and 2 `image b
 
 ![image-20211019212159702](https://i.loli.net/2021/10/19/MQCe5w3lBucb1Ar.png)
 
-Then we translate this .ui file to .py file, this process can be down with a python script. Finally we need to utilize the `signal` and `slot` function to connect the GUI with our program, the core class is as follows:
+Then we translate this `.ui` file to `.py` file, this process can be down with a python script. Finally we need to utilize the `signal` and `slot` function to connect the GUI with our program, the core class is as follows:
 
 ```python
 class MyMainWindow(QMainWindow,Ui_MainWindow):
@@ -220,9 +218,7 @@ class MyMainWindow(QMainWindow,Ui_MainWindow):
         os.system('python detect.py --source %s --weights weights/best.pt --conf-thres 0.60'%vedioName)
 ```
 
- 
-
-This is the final program(left is image detection and right are video detection):
+ This is the final program(left is image detection and right are video detection):
 
 ![image-20211019213731744](https://i.loli.net/2021/10/19/1BFKvtwqRIOb9pm.png)
 
