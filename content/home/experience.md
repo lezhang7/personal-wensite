@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Summer research 
-    company: Georgia Tech (advisor: Diyi Yang)
+    company: Georgia Tech 
     company_url: 'https://www.cc.gatech.edu/~dyang888/'
     company_logo: 
     location: Remote
@@ -36,7 +36,7 @@ experience:
         * Experiment and reaches SOTA performance &  paper writing   
     
   - title: Institute internship 
-    company: Shanghai Qizhi Institute (advisor: Hang Zhao)
+    company: Shanghai Qizhi Institute 
     company_url: 'http://people.csail.mit.edu/hangzhao/index.html'
     company_logo: 
     location: Shanghai
@@ -50,7 +50,7 @@ experience:
         * esigned a crowd source HTML page for Amazon Mechanical Turk to collect data
     
   - title: Undergraduate Researcher
-    company: Fudan University, DISC lab (advisor: Zhongyu Wei)
+    company: Fudan University, DISC lab 
     company_url: 'http://fnlpsds.com/'
     company_logo: 
     location: Shanghai
