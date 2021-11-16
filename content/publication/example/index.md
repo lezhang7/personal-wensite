@@ -34,12 +34,22 @@ url_poster: ""
 url_code: "https://github.com/Magiccircuit/TreeMix"
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% Abstract%}}
+
+Data augmentation is an effective approach to tackle over-fitting. Many previous works have proposed different data augmentations strategies for NLP, such as noise injection, word replacement,  back-translation etc. Though effective, they missed one important characteristic of language--compositionality, meaning of a complex expression is built from its sub-parts. Motivated by this, we propose a compositional data augmentation approach for natural language understanding called TreeMix. Specifically, TreeMix leverages constituency parsing tree to decompose sentences into constituent sub-structures and the Mixup data augmentation technique to recombine them to generate new sentences. Compared with previous approaches, TreeMix introduces greater diversity to the samples generated and encourages models to learn compositionality of NLP data. Extensive experiments on text classification and semantic parsing benchmarks demonstrate that TreeMix outperforms current state-of-the-art data augmentation methods.
+slides: example
+
+{{% /Paper%}}
+
+{{% Main Result %}}
+
+## Full datasets
+
+![image-20211116203025899](C:/Users/zhangle/AppData/Roaming/Typora/typora-user-images/image-20211116203025899.png)
+
+## Partial Dataset![sst2_lr](https://i.loli.net/2021/11/16/m6orh7eKNnixMOP.png)
+
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+ [code,](https://github.com/Magiccircuit/TreeMix).
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
