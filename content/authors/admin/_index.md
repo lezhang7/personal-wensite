@@ -11,18 +11,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
     link: https://github.com/Magiccircuit?tab=repositories
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E4%B9%90-%E5%BC%A0-35a94521b
 organizations:
   - name: Fudan University
     url: https://www.fudan.edu.cn
