@@ -28,7 +28,7 @@ image:
   focal_point: ""
   preview_only: false
 date: 2021-11-15T09:35:11.276Z
-url_slides: ""
+url_slides: "https://github.com/Magiccircuit/personal-wensite/blob/master/content/publication/example/ACL_2022_TreeMix.pdf"
 publishDate: preprint
 url_poster: ""
 url_code: "https://github.com/Magiccircuit/TreeMix"
