@@ -43,6 +43,13 @@ slides: example
 
 # Main Result 
 
-## Full datasets
+### Full datasets
+
+![image.png](https://i.loli.net/2021/11/16/j4tEyJ5NpfTWIwA.png)
+
+### Partial set results
+
+![sst2_lr.png](https://i.loli.net/2021/11/16/iOStwlsmyh8zC2Z.png)
 
 This work is now in submission to ACL 2022!  
+
