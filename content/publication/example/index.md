@@ -10,7 +10,7 @@ authors:
   - Diyi Yang
 author_notes:
   - Equal contribution
-publication: Submitted to ACL 2022
+publication: In submission to ACL 2022
 summary: We introduce a new compositional data augmentation method which encourages models to learn compositionality of NLP data and outperforms current state-of-the-art data augmentation methods on several benchmarks.
 url_dataset: ""
 url_project: ""
@@ -24,7 +24,7 @@ tags: [Deep Learning]
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Illustration of TreeMix for single sentence classification"
   focal_point: ""
   preview_only: false
 date: 2021-11-15T09:35:11.276Z
@@ -49,7 +49,4 @@ slides: example
 
 ## Partial Dataset![sst2_lr](https://i.loli.net/2021/11/16/m6orh7eKNnixMOP.png)
 
-
-
- [code,](https://github.com/Magiccircuit/TreeMix).
-
+This work is now in submission to ACL 2022!  
