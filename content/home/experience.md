@@ -47,7 +47,7 @@ experience:
        
         * Expanded the task formulation and datasets introduced in Visual Indicates Sound
         * Designed a framework based on patch-wise contrastive learning
-        * esigned a crowd source HTML page for Amazon Mechanical Turk to collect data
+        * Designed a crowd source HTML page for Amazon Mechanical Turk to collect data
     
   - title: Undergraduate Researcher
     company: Fudan University, DISC lab 
@@ -59,7 +59,7 @@ experience:
     description: |2-
         Contributions:
         
-        * Built a multi-modal event data
+        * Built a multi-modal event dataset
         * Collected multi-modal document (image or video & text) from official and commercial press 
         * Designed a crowd source labelling pipeline and HTML page
 design:

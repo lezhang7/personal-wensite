@@ -1,38 +1,37 @@
 ---
-abstract: Comming soon.
+abstract: Data augmentation is an effective approach to tackle over-fitting. Many previous works have proposed different data augmentations strategies for NLP, such as noise injection, word replacement,  back-translation etc. Though effective, they missed one important characteristic of language--compositionality, meaning of a complex expression is built from its sub-parts. Motivated by this, we propose a compositional data augmentation approach for natural language understanding called TreeMix. Specifically, TreeMix leverages constituency parsing tree to decompose sentences into constituent sub-structures and the Mixup data augmentation technique to recombine them to generate new sentences. Compared with previous approaches, TreeMix introduces greater diversity to the samples generated and encourages models to learn compositionality of NLP data. Extensive experiments on text classification and semantic parsing benchmarks demonstrate that TreeMix outperforms current state-of-the-art data augmentation methods.
 slides: example
 url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - LeZhang
-  - ZichaoYang
-  - DiyiYang
+  - Le Zhang
+  - Zichao Yang
+  - Diyi Yang
 author_notes:
   - Equal contribution
-  - Equal contribution
-publication: arxiv
-summary: Comming out very soon!
+publication: Submitted to ACL 2022
+summary: We introduce a new compositional data augmentation method which encourages models to learn compositionality of NLP data and outperforms current state-of-the-art data augmentation methods on several benchmarks.
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "TreeMix : compositional span mixup method for Text Classification"
+title: "TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding"
 doi: ""
 featured: true
-tags: []
+tags: [Deep Learning]
 projects:
   - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2021-09-05T09:35:11.276Z
+date: 2021-11-15T09:35:11.276Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: preprint
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/Magiccircuit/TreeMix"
 ---
 
 {{% callout note %}}
