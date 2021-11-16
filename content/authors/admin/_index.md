@@ -35,8 +35,8 @@ email: ""
 superuser: false
 highlight_name: false
 ---
-Hi there, I am a final year undergraduate student from Fudan University, majoring in Electronic Engineering ( Biomedical Engineering ) . I'm an NLP enthusiast, with research interests including Natural Language Processing and Multi-modal Machine Learning. My goal is to endow machine with emotional and logical ability to understand this world and interact with human beings. 
+Hi there, I am a final-year undergraduate student at Fudan University, majoring in Electronic Engineering (Biomedical Engineering). I'm an NLP enthusiast, with research interests including natural language processing and multi-modal machine learning. My research goal is to enable machines to perceive and interact with the world and people intelligently.
 
-I'm a member of [Data Intelligence and Social Computing Lab](http://fnlpsds.com/) (Fudan DISC) , and I am conducting research project concerning new datasets construction and new task formulation under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)  at DISC. Besides, i conducted a research project of data augmentation with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/) during the last summer.
+I'm a member of [Data Intelligence and Social Computing Lab](http://fnlpsds.com/) (Fudan DISC), and I am conducting a research project concerning new datasets construction and new task formulation under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)  at DISC. Besides, I conducted a research project on data augmentation with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/) last summer.
 
-I will apply for Computer Science Master program starting from 2022 fall!
+I am applying for Computer Science Master program starting from 2022 fall!

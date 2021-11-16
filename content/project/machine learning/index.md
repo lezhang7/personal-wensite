@@ -13,9 +13,9 @@ featured: false
 external_link: 
 url_slides: ""
 tags: 
-  - Other
+  - Deep Learning
 categories:
-  - Other
+  - Deep Learning
 links: []
 image:
   caption: one-stage object detection
