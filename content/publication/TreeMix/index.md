@@ -8,7 +8,8 @@ authors:
   - Le Zhang
   - Zichao Yang
   - Diyi Yang
-author_notes:
+author_notes: 
+  - Equal contribution
 publication: In submission to ACL 2022
 summary: We introduce a new compositional data augmentation method which encourages models to learn compositionality of NLP data and outperforms current state-of-the-art data augmentation methods on several benchmarks.
 url_dataset: ""
@@ -16,6 +17,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
+url_slides: ""
+url_poster: ""
 title: "TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding"
 doi: ""
 featured: true
