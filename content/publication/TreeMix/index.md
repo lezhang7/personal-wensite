@@ -45,8 +45,4 @@ slides: example
 
 ## Full datasets
 
-![image-20211116203025899](https://i.loli.net/2021/11/16/s4DueWBgmorkN56.png)
-
-## Partial Dataset![sst2_lr](https://i.loli.net/2021/11/16/m6orh7eKNnixMOP.png)
-
 This work is now in submission to ACL 2022!  
