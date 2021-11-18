@@ -34,6 +34,8 @@ url_code: "https://github.com/Magiccircuit/TreeMix"
 
 ##  :smile:This work is now in submission to ACL 2022! ! :smile:
 
+NOTE: The arxiv version will be provided after the end of the anonymity period!
+
 # Main Result 
 
 ### Full datasets
