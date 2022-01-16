@@ -38,11 +38,17 @@ NOTE: The arxiv version will be provided after the end of the anonymity period!
 
 # Main Result 
 
-### Full datasets
+### Method 
+
+![featured](https://s2.loli.net/2022/01/16/zDUb8F5QErw6Bvf.jpg)
+
+### Results
+
+#### On fulldatasets
 
 ![image.png](https://i.loli.net/2021/11/16/j4tEyJ5NpfTWIwA.png)
 
-### Partial set results
+#### On low-resource set results
 
 ![sst2_lr.png](https://i.loli.net/2021/11/16/iOStwlsmyh8zC2Z.png)
 

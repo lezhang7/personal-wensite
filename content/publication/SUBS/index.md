@@ -22,7 +22,7 @@ doi: ""
 featured: true
 tags: [NLP]
 projects:
-  - TreeMix
+  - SUBS
 image:
   caption: "Illustration of SUBS"
   focal_point: ""
@@ -36,14 +36,24 @@ url_code: ""
 
 NOTE: The arxiv version will be provided after the end of the anonymity period!
 
+# Method
+
+![exmf](https://s2.loli.net/2022/01/16/qGBThMefWFDz7I4.png)
+
+<img src="C:/Users/zhangle/AppData/Roaming/Typora/typora-user-images/image-20220116223344109.png" alt="image-20220116223344109" style="zoom: 67%;" />
+
 # Main Result 
 
-### Full datasets
+### datasets
 
-![image.png](https://i.loli.net/2021/11/16/j4tEyJ5NpfTWIwA.png)
+<img src="https://s2.loli.net/2022/01/16/KQjWpVyhtEYrvPU.png" alt="image-20220116223308390" style="zoom:80%;" />
 
-### Partial set results
 
-![sst2_lr.png](https://i.loli.net/2021/11/16/iOStwlsmyh8zC2Z.png)
+
+<img src="https://s2.loli.net/2022/01/16/eTDu3BhzrPtYyHN.png" alt="image-20220116223202195" style="zoom: 80%;" />
+
+<img src="https://s2.loli.net/2022/01/16/RLKutDZNcOSiBAw.png" alt="image-20220116223214043" style="zoom: 80%;" />
+
+
 
 
