@@ -18,21 +18,14 @@ social:
 organizations:
   - name: Mila
     url: https://mila.quebec/en/
-
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-
-
+	- course: M.sc in Computer Science
+      institution: Mila
+      year: 2024
+    - course: B.Eng in Biomedical Engeneering
+      institution: Fudan University
+      year: 2022
 email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
