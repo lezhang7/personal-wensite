@@ -6,9 +6,10 @@ interests:
   - Natural Language Processing
   - Cross Vision-Language Learning
   - Multimodal Learning
+# 不能有.
 education:
   courses:
-	- course: Msc in Computer Science
+    - course: Msc in Computer Science
       institution: Mila
       year: 2024
     - course: BEng in Biomedical Engeneering
