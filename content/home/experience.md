@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Summer research 
+  - title: Research Intern
+    company: Shanghai AI LAB 
+    company_url: 'https://www.shlab.org.cn/'
+    company_logo: 'https://www.shlab.org.cn/static/img/index_14.685f6559.png'
+    location: Shanghai
+    date_start: '2022-02-01'
+    date_end: '2022-08-20'
+    description: |2-
+        Works include:
+        
+        * Propose a new generative protein sequence transformer model - MSAT5
+        * Introduce a task ultilizing millions of protein sequences to pretrain MSAT5 
+
+  - title: Summer Research 
     company: Georgia Tech 
     company_url: 'https://www.cc.gatech.edu/~dyang888/'
     company_logo: 
@@ -32,8 +45,7 @@ experience:
     description: |2-
         Works include:
         
-        * Propos TreeMix, a novel compositional data augmentation method for sequence classification
-        * Experiment and reaches SOTA performance &  paper writing   
+        * Proposed TreeMix, a novel compositional data augmentation method for sequence classification
     
   - title: Institute internship 
     company: Shanghai Qizhi Institute 
@@ -55,13 +67,11 @@ experience:
     company_logo: 
     location: Shanghai
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-6-20'
     description: |2-
         Contributions:
         
         * Built a multi-modal event dataset
         * Collected multi-modal document (image or video & text) from official and commercial press 
-        * Designed a crowd source labelling pipeline and HTML page
-design:
   columns: '2'
 ---

@@ -9,7 +9,7 @@ interests:
 # 不能有.
 education:
   courses:
-    - course: M.sc in Computer Science
+    - course: M.Sc in Computer Science
       institution: Mila
       year: 2024
     - course: B.Eng in Biomedical Engeneering
