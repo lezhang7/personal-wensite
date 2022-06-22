@@ -26,7 +26,7 @@ experience:
     company: Shanghai AI LAB 
     company_url: 'https://www.shlab.org.cn/'
     company_logo: shlab
-    location: Shanghai
+    location: 
     date_start: '2022-02-01'
     date_end: '2022-08-20'
     description: |2-
@@ -38,7 +38,7 @@ experience:
   - title: Summer Research 
     company: Georgia Tech 
     company_url: 'https://www.cc.gatech.edu/~dyang888/'
-    company_logo: gatech
+    company_logo: 
     location: Remote
     date_start: '2021-05-01'
     date_end: '2021-09-01'
@@ -50,7 +50,7 @@ experience:
   - title: Institute internship 
     company: Shanghai Qizhi Institute 
     company_url: 'http://people.csail.mit.edu/hangzhao/index.html'
-    company_logo: qizhi
+    company_logo: 
     location: Shanghai
     date_start: '2021-02-01'
     date_end: '2021-04-28'
@@ -64,7 +64,7 @@ experience:
   - title: Undergraduate Researcher
     company: Fudan University, DISC lab 
     company_url: 'http://fnlpsds.com/'
-    company_logo: disc
+    company_logo: 
     location: Shanghai
     date_start: '2020-09-01'
     date_end: '2022-6-20'
