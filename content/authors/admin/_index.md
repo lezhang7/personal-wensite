@@ -1,6 +1,6 @@
 ---
 title: Le Zhang | 张乐
-role: 
+role: M.Sc Student
 avatar_filename: ""
 bio: M.Sc Student
 interests:
@@ -18,14 +18,7 @@ social:
 organizations:
   - name: Mila
     url: https://mila.quebec/en/
-education:
-  courses:
-	- course: M.sc in Computer Science
-      institution: Mila
-      year: 2024
-    - course: B.Eng in Biomedical Engeneering
-      institution: Fudan University
-      year: 2022
+
 email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
