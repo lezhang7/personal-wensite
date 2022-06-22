@@ -19,7 +19,6 @@ organizations:
   - name: Mila
     url: https://mila.quebec/en/
 education:
-  courses:
 	- course: M.Sc in Computer Science
 	  institution: Mila
       year: 2024(exp)
