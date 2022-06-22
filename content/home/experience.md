@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Shanghai AI LAB 
     company_url: 'https://www.shlab.org.cn/'
-    company_logo: shlab
+    company_logo: 
     location: 
     date_start: '2022-02-01'
     date_end: '2022-08-20'
