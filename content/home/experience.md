@@ -71,7 +71,9 @@ experience:
     description: |2-
         Contributions:
         
-        * Built a multi modal event dataset
-        * Collected multi modal document (image or video & text) from official and commercial press 
+        * Built a multi-modal event dataset
+        * Collected multi-modal document (image or video & text) from official and commercial press 
+
+design:
   columns: '2'
 ---
