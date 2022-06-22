@@ -21,7 +21,7 @@ organizations:
 education:
   courses:
 	- course: M.Sc in Computer Science
-	  institution: Mila & Université de Montréal
+	  institution: Mila
       year: 2022-2024(exp)
     - course: B.Eng in Biomedical Engeneering
       institution: Fudan University
