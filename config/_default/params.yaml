@@ -113,10 +113,10 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
+# projects:
+#   post_view: 2
+#   publication_view: 2
+#   talk_view: 2
 breadcrumb:
   page_types:
     book: true
