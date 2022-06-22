@@ -9,10 +9,10 @@ interests:
 # 不能有.
 education:
   courses:
-    - course: Msc in Computer Science
+    - course: M.sc in Computer Science
       institution: Mila
       year: 2024
-    - course: BEng in Biomedical Engeneering
+    - course: B.Eng in Biomedical Engeneering
       institution: Fudan University
       year: 2022
 social:
