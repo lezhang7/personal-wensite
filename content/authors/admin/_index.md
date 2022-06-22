@@ -19,12 +19,12 @@ organizations:
   - name: Mila
     url: https://mila.quebec/en/
 education:
-	- course: M.Sc in Computer Science
-	  institution: Mila
-      year: 2024(exp)
-    - course: B.Eng in Biomedical Engeneering
-      institution: Fudan University
-      year: 2022
+  - course: M.Sc in Computer Science
+	institution: Mila
+    year: 2024(exp)
+  - course: B.Eng in Biomedical Engeneering
+    institution: Fudan University
+    year: 2022
 email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
