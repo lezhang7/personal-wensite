@@ -75,5 +75,5 @@ experience:
         * Collected multi-modal document (image or video & text) from official and commercial press 
 
 design:
-  columns: '2'
+  columns: '1'
 ---
