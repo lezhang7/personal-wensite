@@ -1,12 +1,13 @@
 ---
 title: Le Zhang | 张乐
-role: Senior Student of Electronic Engineering
+role: 
 avatar_filename: ""
-bio: Senior student interested in NLP, applying for master study in north America
+bio: M.Sc Student
 interests:
-  - Artificial Intelligence
-  - Multimodal Machine Learning
+  - Computer Vision
   - Natural Language Processing
+  - Cross Vision-Language Learning
+  - Multimodal Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,19 +16,22 @@ social:
     icon_pack: fab
     link: https://github.com/Magiccircuit?tab=repositories
 organizations:
-  - name: Fudan University
-    url: https://www.fudan.edu.cn
+  - name: Mila
+    url: https://mila.quebec/en/
 education:
   courses:
+	- course: M.Sc in Computer Science
+	  institution: Mila & Université de Montréal
+      year: 2022-2024(exp)
     - course: B.Eng in Biomedical Engeneering
       institution: Fudan University
-      year: 2022
-email: ""
+      year: 2018-2022
+email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
 ---
-Hi there, I am a final-year undergraduate student at Fudan University, majoring in Electronic Engineering (Biomedical Engineering). I'm an NLP enthusiast, with research interests including natural language processing and multi-modal machine learning. My research goal is to enable machines to perceive and interact with the world and people intelligently.
+Hi there, I am an upcoming M.Sc. student at [Mila](https://mila.quebec/en/) and  [Université de Montréal](https://diro.umontreal.ca/english/home/) advised by Prof . [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the areas of Natural Language Processing, Computer Vision, and Cross Vision-Language Learning. My research goal is to enable machines to perceive and interact with the world and people intelligently.
 
-I'm a member of [Data Intelligence and Social Computing Lab](http://fnlpsds.com/) (Fudan DISC), and I am conducting a research project concerning new datasets construction and new task formulation under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)  at DISC. Besides, I conducted a research project on data augmentation with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/) last summer.
+Perviously, I obtained my B.Eng in Biomedical Engineering from [Fudan University](https://www.fudan.edu.cn/). I was a  member of [Fudan DISC](http://fnlpsds.com/)  under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/) at Fudan. Besides, I conducted a summer research project with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/), and I was a research Intern at [Shanghai AI Lab ](https://www.shlab.org.cn/), under the supervision of Dr. [Siqi Sun](https://intersun.github.io/).
 
-I am applying for Computer Science Master program starting from 2022 fall!
+
