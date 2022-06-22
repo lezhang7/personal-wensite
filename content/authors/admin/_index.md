@@ -1,13 +1,19 @@
 ---
 title: Le Zhang | 张乐
-role: M.Sc Student
 avatar_filename: ""
-bio: M.Sc Student
 interests:
   - Computer Vision
   - Natural Language Processing
   - Cross Vision-Language Learning
   - Multimodal Learning
+education:
+  courses:
+	- course: Msc in Computer Science
+      institution: Mila
+      year: 2024
+    - course: BEng in Biomedical Engeneering
+      institution: Fudan University
+      year: 2022
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,10 +21,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Magiccircuit?tab=repositories
-organizations:
-  - name: Mila
-    url: https://mila.quebec/en/
-
 email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
