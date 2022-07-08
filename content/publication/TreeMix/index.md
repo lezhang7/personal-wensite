@@ -8,7 +8,7 @@ authors:
   - Zichao Yang
   - Diyi Yang
 
-publication: NAACL 2022
+publication: NAACL 2022 oral
 summary: We introduce a new compositional data augmentation method which encourages models to learn compositionality of NLP data and outperforms current state-of-the-art data augmentation methods on several benchmarks.
 url_dataset: ""
 url_project: ""

@@ -8,7 +8,7 @@ authors:
   - Le Zhang
   - Diyi Yang
 
-publication: NAACL 2022 
+publication: NAACL 2022 poster
 
 url_dataset: ""
 url_project: ""
