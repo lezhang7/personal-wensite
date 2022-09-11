@@ -21,8 +21,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Magiccircuit?tab=repositories
-  - icon: scholar
-    icon_pack:  fas
+  - icon: google-scholar
+    icon_pack:  ai
     link: https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN&authuser=1
 email: "Zl18300720002@gmail.com"
 superuser: false
