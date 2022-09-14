@@ -1,6 +1,6 @@
 ---
 abstract: Although sequence-to-sequence models often achieve good performance in semantic parsing for i.i.d. data, their performance is still inferior in compositional generalization. Several data augmentation methods have been proposed to alleviate this problem. However, prior work only leveraged  superficial grammar or rules for data augmentation, which resulted in limited improvement. We propose to use subtree substitution for compositional data augmentation, where we consider subtrees with similar semantic functions as exchangeable. Our experiments showed that such augmented data led to significantly better performance on Scan and GeoQuery, and reached new SOTA on compositional split of GeoQuery.
-url_pdf: "https://arxiv.org/abs/2205.01538"
+url_pdf: "https://aclanthology.org/2022.naacl-main.12/"
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Le Zhang
   - Diyi Yang
 
-publication: NAACL 2022 poster
+publication: NAACL 2022 (short)
 
 url_dataset: ""
 url_project: ""
@@ -29,7 +29,7 @@ image:
   preview_only: false
 date: 2022-05-03T09:35:11.276Z
 publishDate: preprint
-url_code: ""
+url_code: "https://github.com/SALT-NLP/SUBS"
 ---
 
 # Method

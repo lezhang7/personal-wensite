@@ -1,6 +1,6 @@
 ---
 abstract: Data augmentation is an effective approach to tackle over-fitting. Many previous works have proposed different data augmentations strategies for NLP, such as noise injection, word replacement,  back-translation etc. Though effective, they missed one important characteristic of language--compositionality, meaning of a complex expression is built from its sub-parts. Motivated by this, we propose a compositional data augmentation approach for natural language understanding called TreeMix. Specifically, TreeMix leverages constituency parsing tree to decompose sentences into constituent sub-structures and the Mixup data augmentation technique to recombine them to generate new sentences. Compared with previous approaches, TreeMix introduces greater diversity to the samples generated and encourages models to learn compositionality of NLP data. Extensive experiments on text classification and semantic parsing benchmarks demonstrate that TreeMix outperforms current state-of-the-art data augmentation methods.
-url_pdf: "https://arxiv.org/abs/2205.06153"
+url_pdf: "https://aclanthology.org/2022.naacl-main.385/"
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Zichao Yang
   - Diyi Yang
 
-publication: NAACL 2022 oral
+publication: NAACL 2022 (long)
 summary: We introduce a new compositional data augmentation method which encourages models to learn compositionality of NLP data and outperforms current state-of-the-art data augmentation methods on several benchmarks.
 url_dataset: ""
 url_project: ""
