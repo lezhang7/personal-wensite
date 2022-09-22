@@ -2,15 +2,15 @@
 title: Le Zhang | 张乐
 avatar_filename: ""
 interests:
-  - Computer Vision
-  - Natural Language Processing
-  - Multimodal Learning
+  - Systematic Generalization
+  - Continue Learning
+  - Vision-Language Learning
 # 不能有.
 education:
   courses:
     - course: M.Sc in Computer Science
       institution: Mila
-      year: 2024
+      year: 2024 (Exp.)
     - course: B.Eng in Biomedical Engeneering
       institution: Fudan University
       year: 2022
