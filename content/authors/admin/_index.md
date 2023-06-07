@@ -28,8 +28,8 @@ email: "Zl18300720002@gmail.com"
 superuser: false
 highlight_name: false
 ---
-Hi there, I am a thesis M.Sc. student at [Mila](https://mila.quebec/en/person/le-zhang/) and  [Université de Montréal](https://diro.umontreal.ca/english/home/) advised by Prof . [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the areas of Natural Language Processing, Computer Vision, and Cross Vision-Language Learning. My research goal is to enable machines to perceive and interact with the world and people intelligently.
+Greetings, I am Le Zhang, currently M.Sc at the [Mila](https://mila.quebec/en/person/le-zhang/). My primary areas of scholarly inquiry encompass representation learning and the cross vision-language learning. The overarching aim of my research is to develop algorithms and systems that empower machines with the ability to intelligently perceive, comprehend, and interact with the world and its inhabitants.
 
-Perviously, I obtained my B.Eng in Biomedical Engineering from [Fudan University](https://www.fudan.edu.cn/). I was a  member of [Fudan DISC](http://fnlpsds.com/)  under the supervision of [Prof. Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/) at Fudan. Besides, I conducted a summer research project with the guide from [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/), and I was a research Intern at [Shanghai AI Lab ](https://www.shlab.org.cn/), under the supervision of Dr. [Siqi Sun](https://intersun.github.io/).
+Currently, I'm working with Dr. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of multimodal learning. Perviously, I obtained Bachelor degree from [Fudan University](https://www.fudan.edu.cn/). Besides, I conducted a summer research with Prof. Diyi Yang, and interned at [Shanghai AI Lab ](https://www.shlab.org.cn/) with Dr. Siqi Sun.
 
 
