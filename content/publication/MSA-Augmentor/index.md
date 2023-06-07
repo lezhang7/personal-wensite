@@ -26,11 +26,7 @@ featured: true
 tags: [NLP]
 projects:
   - MSA-Augmentor
-image:
-  caption: "Illustration of MSA-Augmentor"
-  focal_point: ""
-  preview_only: false
-date: 2023-01-20T09:35:11.276Z
+date: 2023-06-07T09:35:11.276Z
 publishDate: preprint
 url_code: "https://github.com/Magiccircuit/MSA-Augmentor
 ---
@@ -42,7 +38,3 @@ url_code: "https://github.com/Magiccircuit/MSA-Augmentor
 ### Method
 
 ![method.png](https://s2.loli.net/2023/06/08/REC9QD3AbHyk71J.png)
-
-
-
-
