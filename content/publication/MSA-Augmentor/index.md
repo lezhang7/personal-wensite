@@ -19,16 +19,14 @@ url_source: ""
 url_video: ""
 
 url_poster: ""
-title: "MSAGenerator: Enhancing the Protein Tertiary Structure Prediction by
-Multiple Sequence Alignment Generation"
+title: "MSAGenerator: Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation"
 doi: ""
 featured: true
 tags: [NLP]
 projects:
   - MSA-Augmentor
 date: 2023-06-07T09:35:11.276Z
-publishDate: preprint
-url_code: "https://github.com/Magiccircuit/MSA-Augmentor
+url_code: "https://github.com/Magiccircuit/MSA-Augmentor"
 ---
 
 ### Introduction
